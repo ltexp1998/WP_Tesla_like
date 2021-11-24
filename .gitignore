@@ -23,3 +23,8 @@ index.php
 package.json
 readme.html
 license.txt
+integration/.DS_Store
+wp-content/index.php
+wp-content/themes/.DS_Store
+wp-content/themes/tesla_like.zip
+wp-content/themes/tesla_like/.DS_Store
